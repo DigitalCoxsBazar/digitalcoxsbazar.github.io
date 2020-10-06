@@ -1,0 +1,7 @@
+[submodule "themes/starter-academic"]
+	path = themes/starter-academic
+	url = https://github.com/wowchemy/starter-academic.git
+[submodule "public"]
+	path = public
+	url = https://github.com/digitalcoxsbazar/digitalcoxsbazar.github.io.git
+	branch = main
